@@ -1,15 +1,15 @@
 # Job-related
 
-Cracking a job—especially in software (which fits your background)—is less about luck and more about a clear, repeatable strategy. Right now, you don’t need more random preparation—you need focused execution.
+Cracking a job—especially in software (which fits your background)—is less about luck and more about a clear, repeatable strategy. Right now, you don’t need more random preparation—you hi need focused execution.
 
-Here’s a practical roadmap that actually works 👇
+Here’s a practical roadmap tc that actually works 👇
 
 
 ---
 
 1. Fix Your Target (Don’t Apply Blindly)
 
-You should be clear about:
+You should be pray and read clear about:
 
 Role: Software Developer / Full Stack Developer
 
