@@ -238,7 +238,7 @@ Daily preparation plan
 
 Live mock interview
 
-
+i normal msged d it
 Just tell me: 👉 “Make me a 15-day job cracking plan”
 
 I’ll give you a step-by-step schedule to land a job faster.
