@@ -23,7 +23,7 @@ Startups (faster hiring)
 Service companies (good for freshers)
 
 Mid-size product companies
-
+ok tc 578 all ok niku tinnu
 
 
 ---
